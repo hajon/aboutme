@@ -238,7 +238,6 @@ Membre et partenaire actif des principaux réseaux d'innovation et de transforma
 | Certification | Organisme | Année |
 |---|---|---|
 | H0B0 | C.F.S.I | 2026 |
-| EIP (Epitech Innovative Project) | Epitech | 2019 |
 | SST (Sauveteur Secouriste du Travail) | — | 2018 |
 | VCP5-DCV | VMware | 2014 |
 | LPI-C 1 | Linux Professional Institute | 2012 |
