@@ -1,8 +1,7 @@
 # Johan Thay Nam
-### Directeur de Projet · Chef de Projet Senior · Expert en Technologies de l'Information
+### Directeur de Projet · Chef de Projet Senior · Epitech
 
-📍 Montigny-lès-Metz (57) · ✉️ johan.thaynam@pm.me · 📞 +33 6 16 69 57 01
-🔗 [linkedin.com/in/johanthaynam](https://www.linkedin.com/in/johanthaynam/)
+📍 Montigny-lès-Metz (57) · ✉️ johan.thaynam@pm.me · 📞 +33 6 16 69 57 01 · 🔗 [linkedin.com/in/johanthaynam](https://www.linkedin.com/in/johanthaynam/)
 
 ---
 
