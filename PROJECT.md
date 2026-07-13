@@ -210,7 +210,7 @@ Infrastructure mutualisée : 22 écoles, 20 000 étudiants, astreinte, haute dis
 Membre et partenaire actif des principaux réseaux d'innovation et de transformation numérique en Lorraine :
 
 | Structure | Description |
-|---|---|---|
+|---|---|
 | [The Pool](https://the-pool.fr/) | Incubateur du Grand Est — réseau Quest for Change |
 | [Réseau Entreprendre Lorraine](https://www.reseau-entreprendre.org/lorraine/) | Accompagnement entrepreneurial, 300 chefs d'entreprise |
 | [Village by CA Lorraine](https://lorraine.levillagebyca.com/) | Accélérateur de startups — Nancy & Metz |
