@@ -97,9 +97,14 @@ Huit ans de pilotage de projets simultanés dans un environnement contraint : d�
 - Pilotage des équipes pédagogiques et administratives (recrutement, objectifs, évaluation, montée en compétences)
 - Animation des rituels de suivi de projet : points hebdomadaires, bilans mensuels, revues semestrielles
 
+*Management des étudiants*
+- Animation de la réussite pédagogique des étudiants
+- Valoriser le succès des étudiants
+- Suivi avec les parents
+
 ---
 
-#### Ingénieur systèmes — Chef de projet infrastructure
+#### Ingénieur systèmes
 **[Figaro Classifieds](https://www.figaro-classifieds.fr/) — Groupe Figaro (Paris)** · *Février 2014 — Mars 2016*
 
 Filiale internet du Groupe Figaro (Cadremploi, Keljob, Explorimmo, Propriété de France). Production à forte disponibilité, SLA élevés, audiences critiques.
@@ -109,12 +114,13 @@ Filiale internet du Groupe Figaro (Cadremploi, Keljob, Explorimmo, Propriété d
 - Déploiement de la stack de monitoring ELK : cadrage, mise en œuvre, formation des équipes
 - Industrialisation du parc via Puppet : standardisation des configurations, réduction du toil opérationnel
 - Gestion des mises en production : coordination avec les équipes de développement, validation, déploiement
+- Supervision et monitoring des systèmes et applications
 
 **Stack :** Linux Debian/CentOS, Nginx, MySQL, MongoDB, ElasticSearch, Logstash, Kibana, Puppet, VMware vCenter/ESXi, Bacula/Bareos, RabbitMQ, Kafka
 
 ---
 
-#### Ingénieur d'intégration — Chef de projet datacenter
+#### Ingénieur d'intégration — Chef de projet
 **[Alcatel-Lucent Submarine Networks](https://www.alcatel-submarine-networks.com/) — ASN (Nozay)** · *Septembre 2012 — Février 2014*
 
 ASN opère la plus grande flotte de navires câbliers au monde. Contexte industriel critique, équipes internationales, continuité de service impérative.
@@ -139,20 +145,6 @@ Infrastructure critique de veille médiatique audio/vidéo 24h/24. Contraintes d
 - **Rétro-documentation complète de l'architecture** : cartographie technique de l'existant, production des schémas et procédures opérationnelles
 
 **Stack :** Debian 3→6, Windows 2000→2008, NetApp, Bash, Perl, Active Directory, Nagios, Cacti, PGSQL 8.2, Tomcat, encodeurs Ektacom
-
----
-
-#### Ingénieur d'intégration — Responsable d'équipe
-**[EDF](https://www.edf.fr/) (Nanterre)** · *Mai 2010 — Avril 2011*
-
-Projet **AURIGA** — Maintien en Conditions Opérationnelles du référentiel SI et du Plan de Reprise d'Activité applicatifs d'EDF.
-
-**Missions :**
-- **Responsable d'une équipe de 3 personnes** : organisation du travail, planification, reporting à la DSI EDF
-- **Migration de la plateforme vers PHP 5** : cadrage, plan de migration, conduite des tests de non-régression, livraison
-- Pilotage des indicateurs de disponibilité et de performance du référentiel SI
-
-**Stack :** Linux Red Hat, Apache, MySQL, PHP, MEGA
 
 ---
 
@@ -181,6 +173,20 @@ Deux missions autour de l'industrialisation de la plateforme de supervision des 
 - **Rédaction du Document d'Architecture Technique (DAT) performance**
 
 **Stack :** RHEL, CentOS, Cacti, Nagios, Centreon, RPM, Perl, Shell, PHP
+
+---
+
+#### Ingénieur d'intégration — Responsable d'équipe
+**[EDF](https://www.edf.fr/) (Nanterre)** · *Mai 2010 — Avril 2011*
+
+Projet **AURIGA** — Maintien en Conditions Opérationnelles du référentiel SI et du Plan de Reprise d'Activité applicatifs d'EDF.
+
+**Missions :**
+- **Responsable d'une équipe de 3 personnes** : organisation du travail, planification, reporting à la DSI EDF
+- **Migration de la plateforme vers PHP 5** : cadrage, plan de migration, conduite des tests de non-régression, livraison
+- Pilotage des indicateurs de disponibilité et de performance du référentiel SI
+
+**Stack :** Linux Red Hat, Apache, MySQL, PHP, MEGA
 
 ---
 
@@ -227,7 +233,7 @@ Membre et partenaire actif des principaux réseaux d'innovation et de transforma
 | Diplôme | Établissement | Année |
 |---|---|---|
 | Expert en Technologies de l'Information (Bac+5) | [EPITECH](https://www.epitech.eu/) (Le Kremlin-Bicêtre) | 2009 |
-| Équivalence Université Polytechnique de Dalian | Dalian, Chine | 2008 |
+| Université Polytechnique de Dalian | Dalian, Chine | 2008 |
 | Baccalauréat STI GM — Mention Assez Bien | Lycée Charles de Gaulle (Poissy) | 2004 |
 
 ---
@@ -236,8 +242,9 @@ Membre et partenaire actif des principaux réseaux d'innovation et de transforma
 
 | Certification | Organisme | Année |
 |---|---|---|
-| EIP (Epitech Innovative Project) | Epitech | 2019 |
-| SST (Sauveteur Secouriste du Travail) | — | 2018 |
+| PSSM | Premiers Secours à la Santé Mentale | - | 2019 |
+| EPI (Equipier de Première Intervention) | - | 2019 |
+| SST (Sauveteur Secouriste du Travail) | - | 2018 |
 | VCP5-DCV | VMware | 2014 |
 | LPI-C 1 | Linux Professional Institute | 2012 |
 | ITIL | — | 2012 |
@@ -258,10 +265,10 @@ Membre et partenaire actif des principaux réseaux d'innovation et de transforma
 
 ## Centres d'intérêt
 
-**Sport** — CrossFit
+**Sport** — CrossFit (10 ans) · joueur de rugby (10 ans) et capitaine de l'équipe réserve au Rugby Val-de-bièvre (Villejuif)
 
-**Associatif** — Ancien président d'Episport et responsable rugby (Epita/Epitech, 4 ans) · Ancien dirigeant des équipes jeunes au Rugby Club Val De Bièvre (3 ans)
+**Associatif** — Ancien président d'Episport et responsable rugby (Epita/Epitech, 4 ans) · Ancien dirigeant des équipes jeunes au Rugby Club Val-de-bièvre (3 ans) · Responsable de la buvette Rugby Val-de-bièvre (5 ans)
 
 ---
 
-*Mis à jour : juillet 2026*
+*Mis à jour : août 2026*
