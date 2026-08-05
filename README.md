@@ -15,9 +15,9 @@
 
 Diplômé d'[EPITECH](https://www.epitech.eu/) (Bac+5, Expert en Technologies de l'Information), j'ai débuté en exploitation et ingénierie système dans des environnements critiques — salle de marché HSBC, infrastructure câbles sous-marins Alcatel-Lucent, datacenter Figaro Classifieds. À chaque mission, la dimension projet était centrale : migrations, déménagements de datacenter, industrialisations de plateformes, montées de version à risque zéro.
 
-À partir de 2016, j'ai pris la direction pédagogique puis la direction complète du campus [EPITECH Nancy](https://www.epitech.eu/). Ce rôle m'a confronté à une réalité de **directeur de projets multi-dimensionnels** : projets de construction et de rénovation, projets pédagogiques à déploiement national, projets partenariaux avec l'écosystème économique lorrain, conduite du changement organisationnel. Tout cela avec un budget à tenir, des équipes à piloter, des délais à respecter et des décideurs à convaincre.
+À partir de 2016, j'ai pris la direction pédagogique puis la direction complète du campus [EPITECH Nancy](https://www.epitech.eu/ecole-informatique-nancy/). Ce rôle m'a confronté à une réalité de **directeur de projets multi-dimensionnels** : projets de construction et de rénovation, projets pédagogiques à déploiement national, projets partenariaux avec l'écosystème économique lorrain, conduite du changement organisationnel. Tout cela avec un budget à tenir, des équipes à piloter, des délais à respecter et des décideurs à convaincre.
 
-Aujourd'hui **Ambassadeur IA** auprès de la [Direction Générale des Entreprises (DGE)](https://www.entreprises.gouv.fr/) et membre actif des principaux réseaux d'innovation lorrains, je cherche à revenir dans un environnement tech pour diriger des projets à forte composante numérique.
+Aujourd'hui **Ambassadeur IA** auprès de la [Direction Générale des Entreprises (DGE)](https://www.entreprises.gouv.fr/espace-entreprises/appels-a-projets-et-appels-a-manifestation-d-interet/ambassadeurs-ia) et membre actif des principaux réseaux d'innovation lorrains, je cherche à revenir dans un environnement tech pour diriger des projets à forte composante numérique.
 
 ---
 
@@ -106,7 +106,7 @@ Huit ans de pilotage de projets simultanés dans un environnement contraint : d�
 ---
 
 #### Ingénieur systèmes
-**[Figaro Classifieds](https://www.figaro-classifieds.fr/) — Groupe Figaro (Paris)** · *Février 2014 — Mars 2016*
+**[Figaro Classifieds](https://classifieds.lefigaro.fr) — Groupe Figaro (Paris)** · *Février 2014 — Mars 2016*
 
 Filiale internet du Groupe Figaro (Cadremploi, Keljob, Explorimmo, Propriété de France). Production à forte disponibilité, SLA élevés, audiences critiques.
 
