@@ -1,7 +1,7 @@
 # Johan Thay Nam
 ### Directeur de Projet · Chef de Projet Senior · Expert en Technologies de l'Information
 
-📍 Montigny-lès-Metz (57) · ✉️ johan.thaynam@pm.me · 📞 +33 6 16 69 57 01
+📍 Montigny-lès-Metz (57) · ✉️ [mailto:johan.thaynam@pm.me](johan.thaynam@pm.me) · 📞 [tel:+33616695701](06 16 69 57 01)
 🔗 [linkedin.com/in/johanthaynam](https://www.linkedin.com/in/johanthaynam/)
 
 ---
