@@ -1,7 +1,7 @@
 # Johan Thay Nam
-### Directeur de Projet · Chef de Projet Senior · Expert en Technologies de l'Information
+### Directeur de Projet · Chef de Projet Senior
 
-📍 Montigny-lès-Metz (57) · ✉️ [johan.thaynam@pm.me](mailto:johan.thaynam@pm.me) · 📞 [0616695701](tel:+33616695701)
+📍 Montigny-lès-Metz (57), FR · ✉️ [johan.thaynam@pm.me](mailto:johan.thaynam@pm.me) · 📞 0616695701
 🔗 [linkedin.com/in/johanthaynam](https://www.linkedin.com/in/johanthaynam/)
 
 ---
@@ -30,7 +30,7 @@ Cadrage et structuration de projet · Planification et jalonnement · Gestion de
 Constitution et animation d'équipes · Management transversal · Coordination de prestataires et partenaires · Gestion des parties prenantes · Conduite du changement · Animation de comités de pilotage
 
 **Expertise technique**
-Maîtrise des environnements Linux, réseaux, bases de données, virtualisation · Capacité à dialoguer avec les équipes de développement et d'infrastructure · Rédaction de documents techniques (DAT, cahiers des charges, procédures, spécifications)
+IA · Maîtrise des environnements Linux, réseaux, bases de données, virtualisation · Capacité à dialoguer avec les équipes de développement et d'infrastructure · Rédaction de documents techniques (DAT, cahiers des charges, procédures, spécifications) · Développement C/C++/Python · Environnement de tests
 
 **Innovation & numérique**
 Ambassadeur IA (DGE) · Veille sur les outils de transformation numérique · Intégration de l'IA dans les processus organisationnels · Membre actif des réseaux tech lorrains
@@ -47,6 +47,7 @@ Ambassadeur IA (DGE) · Veille sur les outils de transformation numérique · In
 **[EPITECH](https://www.epitech.eu/) Nancy — Groupe IONIS** · *Septembre 2024 — Aujourd'hui*
 
 Direction complète d'un campus de 200 étudiants, 5 permanents, budget annuel pluriannuel, bâtiment de 1 500 m². Le poste est avant tout un poste de **direction de projets simultanés** : immobilier, pédagogie, partenariats, communication, transformation numérique — tous menés en parallèle, avec des parties prenantes différentes et des contraintes de délais réels.
+Développement de partenariat fort avec la Marine Nationale, la cour d'appel de Nancy, Harmonie Mutuelle, Boursobank (Participation aux 160 ans de la [Société Générale](https://www.societegenerale.com/fr/groupe/impossible-possible))...
 
 **Projets pilotés :**
 
@@ -71,7 +72,7 @@ Pilotage des partenariats avec les principales structures d'innovation et d'entr
 
 ---
 
-#### Directeur Pédagogique — Direction de projets pédagogiques et immobiliers
+#### Directeur Pédagogique — Direction de projets pédagogiques et immobilier
 **[EPITECH](https://www.epitech.eu/) Nancy — Groupe IONIS** · *Avril 2016 — Août 2024 (8 ans)*
 
 Huit ans de pilotage de projets simultanés dans un environnement contraint : délais académiques non négociables, budget maîtrisé, parties prenantes multiples (direction nationale, équipes locales, entreprises partenaires, étudiants, collectivités).
@@ -97,7 +98,7 @@ Huit ans de pilotage de projets simultanés dans un environnement contraint : d�
 - Pilotage des équipes pédagogiques et administratives (recrutement, objectifs, évaluation, montée en compétences)
 - Animation des rituels de suivi de projet : points hebdomadaires, bilans mensuels, revues semestrielles
 
-*Management des étudiants*
+*Management des étudiants et projets*
 - Animation de la réussite pédagogique des étudiants
 - Valoriser le succès des étudiants
 - Suivi avec les parents
@@ -112,18 +113,18 @@ Filiale internet du Groupe Figaro (Cadremploi, Keljob, Explorimmo, Propriété d
 **Projets pilotés :**
 - **Migration et évolution de l'infrastructure** : planification, gestion des risques, coordination des équipes dev et ops, fenêtres de maintenance, rollback
 - Déploiement de la stack de monitoring ELK : cadrage, mise en œuvre, formation des équipes
-- Industrialisation du parc via Puppet : standardisation des configurations, réduction du toil opérationnel
+- Industrialisation du parc via Puppet : standardisation des configurations, amélioration des processus
 - Gestion des mises en production : coordination avec les équipes de développement, validation, déploiement
 - Supervision et monitoring des systèmes et applications
 
-**Stack :** Linux Debian/CentOS, Nginx, MySQL, MongoDB, ElasticSearch, Logstash, Kibana, Puppet, VMware vCenter/ESXi, Bacula/Bareos, RabbitMQ, Kafka
+**Stack :** Linux Debian/CentOS, Nginx, MySQL, MongoDB, ElasticSearch, Logstash, Kibana, Puppet, VMware vCenter/ESXi, Bacula/Bareos, RabbitMQ, Kafka, NodeJS, React, PHP, Python, Shell
 
 ---
 
 #### Ingénieur d'intégration — Chef de projet
-**[Alcatel-Lucent Submarine Networks](https://www.alcatel-submarine-networks.com/) — ASN (Nozay)** · *Septembre 2012 — Février 2014*
+**[Alcatel-Lucent Submarine Networks](https://www.asn.com) (Nozay)** · *Septembre 2012 — Février 2014*
 
-ASN opère la plus grande flotte de navires câbliers au monde. Contexte industriel critique, équipes internationales, continuité de service impérative.
+ASN opère la plus grande flotte de navires câbliers au monde et l'interconnexion mondiale. Contexte industriel critique, équipes internationales, continuité de service impérative.
 
 **Projets pilotés :**
 - **Déménagement du datacenter** : projet à risque zéro — planification détaillée, coordination de toutes les parties prenantes internes et externes, exécution par phases, validation post-déménagement
@@ -135,12 +136,12 @@ ASN opère la plus grande flotte de navires câbliers au monde. Contexte industr
 ---
 
 #### Ingénieur systèmes — Chef de projet technique
-**[Argus de la presse](https://www.argusdelapresse.fr/) (Paris)** · *Février 2012 — Août 2012*
+**[Cision Ex:Argus de la presse](https://www.cision.fr) (Paris)** · *Février 2012 — Août 2012*
 
 Infrastructure critique de veille médiatique audio/vidéo 24h/24. Contraintes de disponibilité maximales, chaîne de traitement temps réel.
 
 **Projets pilotés :**
-- **Déménagement du datacenter** : pilotage complet — cahier des charges, planning, coordination des équipes, exécution, remise en service sans coupure de service prolongée
+- **Mise à jour des systèmes** : pilotage complet — cahier des charges, planning, exécution, remise en service sans coupure de service prolongée
 - **Industrialisation et sécurisation des plateformes** audio/vidéo : analyse de l'existant, plan d'action, mise en œuvre
 - **Rétro-documentation complète de l'architecture** : cartographie technique de l'existant, production des schémas et procédures opérationnelles
 
