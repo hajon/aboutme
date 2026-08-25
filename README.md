@@ -1,64 +1,51 @@
-# Johan Thay Nam
-### Directeur de Projet · Chef de Projet Senior
+**Johan THAY NAM**<br>
+🏠 43 rue Général Leclerc, 57950 Montigny-lès-Metz FRANCE<br>
+📞 (+33) 06 16 60 57 01<br>
+📧 [johan.thaynam@pm.me](mailto:johan.thaynam@pm.me)<br>
+🔗 [linkedin.com/in/johanthaynam](https://www.linkedin.com/in/johanthaynam/)<br>
 
-📍 Montigny-lès-Metz (57), FR · ✉️ [johan.thaynam@pm.me](mailto:johan.thaynam@pm.me) · 📞 0616695701
-🔗 [linkedin.com/in/johanthaynam](https://www.linkedin.com/in/johanthaynam/)
-
----
-
-> **Ingénieur système de formation. Directeur de projet par la pratique.**
-> Vingt ans à piloter des projets complexes dans des environnements à contraintes fortes : production critique, salle de marché, câbles sous-marins, puis campus technologique de 200 étudiants. Je sais cadrer un projet, constituer et animer une équipe, tenir un planning, gérer les risques et rendre compte aux parties prenantes. Je cherche à mettre ces compétences au service d'une organisation tech.
+# DIRECTEUR DE PROJET TECH / DELIVERY MANAGER
+Direction de Projets Stratégiques • Pilotage de Business Unit • Écosystème Tech & IA • Infrastructures Critiques
 
 ---
+
+> "Directeur de Projet et Manager de Business Unit, je m'appuie sur 20 ans d'expérience pour transformer des visions stratégiques en réussites opérationnelles. Ma force réside dans ma capacité à aligner la rigueur de l'ingénierie critique avec le management humain et financier d'un centre de profit.
+> - Delivery & Infrastructures Critiques : 10 ans de pilotage de projets complexes, de migrations et d'industrialisation dans des environnements exigeants (Banque, Télécoms, Web fort trafic).
+> - Direction de Centre de Profit (BU) : Pilotage global du campus Epitech Nancy (gestion du P&L, conformité académique, immobilier, croissance des effectifs).
+> - Écosystème & Innovation : Développement de partenariats B2B de haut niveau, ancrage dans les réseaux Tech locaux et mandat d'Ambassadeur IA (DGE).
+> - Management des Talents : Encadrement d'équipes pluridisciplinaires et accompagnement de centaines d'étudiants vers l'excellence technique (pédagogie active, soft skills)."
 
 ## Profil
 
 Diplômé d'[EPITECH](https://www.epitech.eu/) (Bac+5, Expert en Technologies de l'Information), j'ai débuté en exploitation et ingénierie système dans des environnements critiques — salle de marché HSBC, infrastructure câbles sous-marins Alcatel-Lucent, datacenter Figaro Classifieds. À chaque mission, la dimension projet était centrale : migrations, améliorations, évolution technologique rapide, industrialisations de plateformes, montées de version à risque zéro.
 
-À partir de 2016, j'ai pris la direction pédagogique puis la direction complète du campus [EPITECH Nancy](https://www.epitech.eu/ecole-informatique-nancy/). Ce rôle m'a confronté à une réalité de **directeur de projets multi-dimensionnels** : projets de construction et de rénovation, projets pédagogiques à déploiement national, projets partenariaux avec l'écosystème économique lorrain, conduite du changement organisationnel. Tout cela avec un budget à tenir, des équipes à piloter, des délais à respecter et des décideurs à convaincre.
+À partir de 2016, j'ai pris la direction pédagogique puis la direction complète du campus [EPITECH Nancy](https://www.epitech.eu/ecole-informatique-nancy/). Ce rôle m'a confronté à une réalité de **directeur de projets multi-dimensionnels** : responsabilités multidomaine, projets pédagogiques à déploiement national, projets partenariaux avec l'écosystème économique lorrain et luxembourgeois, conduite du changement organisationnel. Tout cela avec un budget à tenir, des équipes à piloter, des délais à respecter et des décideurs à convaincre.
 
 Aujourd'hui **Ambassadeur IA** auprès de la [Direction Générale des Entreprises (DGE)](https://www.entreprises.gouv.fr/espace-entreprises/appels-a-projets-et-appels-a-manifestation-d-interet/ambassadeurs-ia) et membre actif des principaux réseaux d'innovation lorrains, je cherche à revenir dans un environnement tech pour diriger des projets à forte composante numérique.
 
----
-
-## Compétences en direction de projet
-
-**Gouvernance & pilotage**
-Cadrage et structuration de projet · Planification et jalonnement · Gestion des risques et des aléas · Suivi budgétaire · Reporting aux instances de direction · Pilotage multi-projets
-
-**Coordination & leadership**
-Constitution et animation d'équipes · Management transversal · Coordination de prestataires et partenaires · Gestion des parties prenantes · Conduite du changement · Animation de comités de pilotage
-
-**Expertise technique**
-IA · Maîtrise des environnements Linux, réseaux, bases de données, virtualisation · Capacité à dialoguer avec les équipes de développement et d'infrastructure · Rédaction de documents techniques (DAT, cahiers des charges, procédures, spécifications) · Développement C/C++/Python · Environnement de tests
-
-**Innovation & numérique**
-Ambassadeur IA (DGE) · Veille sur les outils de transformation numérique · Intégration de l'IA dans les processus organisationnels · Membre actif des réseaux tech lorrains
-
----
-
 ## Expériences professionnelles
-
-### Direction & pilotage de projets
-
----
 
 #### Directeur de campus — Direction de projets stratégiques
 **[EPITECH](https://www.epitech.eu/) Nancy — Groupe IONIS** · *Septembre 2024 — Aujourd'hui*
 
-Direction complète d'un campus de 200 étudiants, 5 permanents, budget annuel pluriannuel, bâtiment de 1 500 m². Le poste est avant tout un poste de **direction de projets simultanés** : immobilier, pédagogie, partenariats, communication, transformation numérique — tous menés en parallèle, avec des parties prenantes différentes et des contraintes de délais réels.
+Direction complète d'un campus de 200 étudiants, 11 permanents, budget annuel, bâtiment de 1 500 m². Le poste est avant tout un poste de **direction de projets simultanés** : commercial, immobilier, pédagogie, partenariats, communication, transformation numérique — tous menés en parallèle, avec des parties prenantes différentes et des contraintes de délais réels.
 Développement de partenariat fort avec la Marine Nationale, la cour d'appel de Nancy, Harmonie Mutuelle, Boursobank (Participation aux 160 ans de la [Société Générale](https://www.societegenerale.com/fr/groupe/impossible-possible))...
 
-**Projets pilotés :**
+**Missions :**
 
-*Projet de transformation du campus*
-- Refonte complète de l'offre partenariale avec l'écosystème économique local
-- Déploiement d'une nouvelle stratégie de communication (réseaux sociaux, événements, relations presse)
-- Mise en place de nouveaux indicateurs de performance et tableau de bord de pilotage
-
-*Projet IA & numérique (DGE)*
-- Mission d'**Ambassadeur IA** auprès de la [Direction Générale des Entreprises](https://www.entreprises.gouv.fr/) : participation aux groupes de travail nationaux sur la transformation numérique des entreprises
-- Représentation d'Epitech dans les instances publiques et privées travaillant sur l'intégration de l'IA
+- Pilotage Financier, Administratif & Conformité (Gouvernance)
+  - Gestion de Centre de Profit (P&L) : Élaboration et pilotage strict du budget annuel et pluriannuel du campus.
+  - Qualité & Réglementaire : Garant du respect des normes académiques (Rectorat, audits qualité type Qualiopi) et maintien des certifications d'État.
+  - Exploitation & Sécurité : Maîtrise d'ouvrage déléguée sur l'immobilier, incluant la gestion rigoureuse des contraintes réglementaires (normes ERP, sécurité incendie, accessibilité).
+  - Pilotage par la Data : Création et suivi de tableaux de bord (KPI) pour monitorer la santé financière et opérationnelle du campus.
+- Développement Commercial B2B/B2C & Écosystème Tech
+  - Stratégie de Partenariats (KAM) : Négociation et signature de conventions avec de grands comptes institutionnels et privés (Marine Nationale, Cour d'appel de Nancy, Harmonie Mutuelle, Boursobank).
+  - Acquisition & Visibilité : Déploiement d'une stratégie de communication omnicanale (RP, événements, réseaux sociaux) pour soutenir le recrutement étudiant.
+  - Networking & Innovation : Représentation institutionnelle dans les réseaux d'innovation régionaux (The Pool, Village by CA, Bliiida) et mandat d'Ambassadeur IA auprès de la DGE.
+- Leadership Pédagogique & Management Humain
+  - Management d'Équipes : Recrutement, évaluation et montée en compétences de l'équipe permanente (5 collaborateurs) et des intervenants externes.
+  - Delivery Pédagogique : Conception et déploiement de contenus pédagogiques à l'échelle nationale (réseau de plus de 20 campus), et animation de la réussite pour 200 étudiants.
+  - Gestion de Crise (PCA) : Pilotage intégral du Plan de Continuité d'Activité lors du COVID-19 (bascule de 100% de la production pédagogique en distanciel en 72h, maintenue sur 18 mois).
 
 *Développement de l'écosystème partenarial*
 Pilotage des partenariats avec les principales structures d'innovation et d'entrepreneuriat lorraines :
@@ -72,129 +59,112 @@ Pilotage des partenariats avec les principales structures d'innovation et d'entr
 
 ---
 
-#### Directeur Pédagogique — Direction de projets pédagogiques et immobilier
+#### Directeur Pédagogique
 **[EPITECH](https://www.epitech.eu/) Nancy — Groupe IONIS** · *Avril 2016 — Août 2024 (8 ans)*
 
-Huit ans de pilotage de projets simultanés dans un environnement contraint : délais académiques non négociables, budget maîtrisé, parties prenantes multiples (direction nationale, équipes locales, entreprises partenaires, étudiants, collectivités).
+Epitech, marque phare du Groupe IONIS (1er acteur de l'enseignement supérieur privé français, 35 000 étudiants) avec 6000 étudiants et formé plus de 13000 anciens.
+En tant que Directeur de Campus chez Epitech, j'ai piloté le développement opérationnel et l'excellence académique d'un pôle de formation Tech de référence. Garant de la célèbre pédagogie active de l'école (apprentissage par projet, peer-to-peer), j'ai encadré le parcours de plus de 800 étudiants, managé les équipes pédagogiques et commerciales et fortement ancré le campus au sein de l'écosystème numérique local (partenariats B2B, événements Tech). L'excellence pédaogique a permi d'obtenu la note de 4.6 pour le campus sur Google.
 
-**Projets pilotés :**
+**Missions :**
+- Maîtrise Technique (Hard Skills) : Supervision de l'apprentissage par la pratique et par projet à l'échelle nationale et locale, garantissant l'acquisition de compétences technologiques de haut niveau. Responsable du contenu pédagogique du module Système UNIX et systèmes et réseaux.
+- Développement des Soft Skills : Encadrement des étudiants via un modèle peer-to-peer, favorisant l'autonomie, la collaboration et la résilience face à la complexité technique.
+Suivi de la Réussite & Rétention : Animation de la réussite pédagogique via un accompagnement de proximité, incluant des suivis réguliers avec les étudiants et leurs parents pour prévenir le décrochage.
+- Management Humain : Recrutement, évaluation et montée en compétences de l'équipe permanente (5 collaborateurs et 10 stagiaires) et des intervenants externes.
 
-*Projet de rénovation et d'aménagement du campus*
-- Maîtrise d'ouvrage déléguée sur les travaux de rénovation du bâtiment : cahier des charges, consultation des prestataires, suivi de chantier, réception des travaux
-- Gestion des contraintes réglementaires (ERP, sécurité incendie, accessibilité)
-- Conduite du projet de mobilisation et réaménagement des espaces pédagogiques
-
-*Projet de transformation pédagogique nationale*
-- **Rédaction de contenus pédagogiques nationaux** : conception, pilotage et livraison de modules déployés sur l'ensemble du réseau Epitech France (20+ campus)
-- Coordination avec les équipes pédagogiques nationales et les référents techniques
-- Planification des livrables, respect des calendriers académiques
-
-*Projet de continuité d'activité — COVID-19*
-- Pilotage du **passage intégral en distanciel** en 72h : coordination des équipes, choix des outils, formation rapide des intervenants, communication étudiante
-- Maintien de la continuité pédagogique sur l'ensemble des 5 niveaux de formation pendant 18 mois
-- Capitalisation : rédaction du plan de continuité pédagogique du campus
-
-*Management d'équipe*
-- Pilotage des équipes pédagogiques et administratives (recrutement, objectifs, évaluation, montée en compétences)
-- Animation des rituels de suivi de projet : points hebdomadaires, bilans mensuels, revues semestrielles
-
-*Management des étudiants et projets*
-- Animation de la réussite pédagogique des étudiants
-- Valoriser le succès des étudiants
-- Suivi avec les parents
+**Stacks :** Linux OpenSuse, Ubuntu, C, C++, Python, Haskell, Microsoft 365, IA (Copilot, Gemini)
 
 ---
 
-#### Ingénieur systèmes
+#### Chef de Projet Ops & Ingénieur Systèmes (Environnement Haut Trafic)
 **[Figaro Classifieds](https://classifieds.lefigaro.fr) — Groupe Figaro (Paris)** · *Février 2014 — Mars 2016*
 
-Filiale internet du Groupe Figaro (Cadremploi, Keljob, Explorimmo, Propriété de France). Production à forte disponibilité, SLA élevés, audiences critiques.
+Au sein de la direction Tech de Figaro Classifieds (éditeur de Cadremploi, CV Aden, Keljob, Figaro étudiant, Figaro Immo...), j'ai activement participé au développement et à l'optimisation de plateformes web à fort trafic, réunissant plus de 9 millions de visiteurs mensuels. Dans un environnement exigeant et orienté produit, j'ai garanti la scalabilité, la performance, la haute disponibilité de l'infrastructure et la robustesse des architectures microservices, tout en accompagnant l'innovation technologique d'un acteur majeur du digital français.
 
-**Projets pilotés :**
-- **Migration et évolution de l'infrastructure** : planification, gestion des risques, coordination des équipes dev et ops, fenêtres de maintenance, rollback
-- Déploiement de la stack de monitoring ELK : cadrage, mise en œuvre, formation des équipes
-- Industrialisation du parc via Puppet : standardisation des configurations, amélioration des processus
-- Gestion des mises en production : coordination avec les équipes de développement, validation, déploiement
-- Supervision et monitoring des systèmes et applications
+**Missions :**
+- Delivery & Release Management : Coordination transverse entre les équipes de développement et d'exploitation (DevOps) pour piloter les mises en production complexes : planification, gestion des risques, orchestration des fenêtres de maintenance et stratégies de rollback.
+- Gestion de Projet d'Infrastructure : Pilotage des migrations et évolutions de l'architecture, en garantissant la fluidité des déploiements applicatifs avec les équipes de développement.
+Amélioration Continue : Déploiement d'outils modernes pour sécuriser et accélérer la production (industrialisation via Puppet, supervision avancée via la stack ELK).
 
 **Stack :** Linux Debian/CentOS, Nginx, MySQL, MongoDB, ElasticSearch, Logstash, Kibana, Puppet, VMware vCenter/ESXi, Bacula/Bareos, RabbitMQ, Kafka, NodeJS, React, PHP, Python, Shell
 
 ---
 
-#### Ingénieur d'intégration — Chef de projet
+#### Chef de Projet Technique & Ingénieur d'Intégration
 **[Alcatel-Lucent Submarine Networks](https://www.asn.com) (Nozay)** · *Septembre 2012 — Février 2014*
 
-ASN opère la plus grande flotte de navires câbliers au monde et l'interconnexion mondiale. Contexte industriel critique, équipes internationales, continuité de service impérative.
+**Contexte :** Leader mondial de l'interconnexion mondiale par câbles sous-marins. Pilotage de projets d'infrastructure dans un contexte industriel critique (continuité de service impérative, équipes internationales).
 
-**Projets pilotés :**
-- **Déménagement du datacenter** : projet à risque zéro — planification détaillée, coordination de toutes les parties prenantes internes et externes, exécution par phases, validation post-déménagement
-- Étude comparative des solutions SGBD du parc : analyse des usages, rapport de recommandations, plan de standardisation
-- Gestion des environnements de développement : mise à disposition des équipes R&D, SLA internes, évolution du parc
+**Missions :**
+- Gouvernance IT & Standardisation : Audit et analyse comparative des solutions SGBD du parc informatique, aboutissant à des recommandations stratégiques et un plan de standardisation global.
+- Service Delivery (R&D) : Pilotage des environnements de développement pour les équipes R&D, incluant la gestion capacitaire et le respect des engagements de service (SLA internes).
 
 **Stack :** Linux RHEL, Apache, MySQL, PHP, Bash, OCS Inventory, GLPI
 
 ---
 
-#### Ingénieur systèmes — Chef de projet technique
-**[Cision Ex:Argus de la presse](https://www.cision.fr) (Paris)** · *Février 2012 — Août 2012*
+#### Chef de Projet Technique & Ingénieur Systèmes
+**[Cision](https://www.cision.fr) (Paris)** · *Février 2012 — Août 2012*
 
-Infrastructure critique de veille médiatique audio/vidéo 24h/24. Contraintes de disponibilité maximales, chaîne de traitement temps réel.
+**Contexte :** Pilotage de l'infrastructure critique de veille médiatique H24, supportant une chaîne de traitement des flux audio et vidéo en temps réel.
 
-**Projets pilotés :**
-- **Mise à jour des systèmes** : pilotage complet — cahier des charges, planning, exécution, remise en service sans coupure de service prolongée
-- **Industrialisation et sécurisation des plateformes** audio/vidéo : analyse de l'existant, plan d'action, mise en œuvre
-- **Rétro-documentation complète de l'architecture** : cartographie technique de l'existant, production des schémas et procédures opérationnelles
+**Missions :**
+- Pilotage de Projet à "Zéro Coupure" : Direction de bout en bout des mises à jour systèmes majeures (rédaction du cahier des charges, planification, exécution) garantissant une continuité de service absolue pour les clients.
+- Gouvernance IT & Architecture : Rétro-ingénierie et cartographie technique complète du système d'information existant, permettant la production des schémas directeurs et des procédures opérationnelles.
+- Industrialisation des Flux : Audit de l'existant, élaboration du plan d'action et mise en œuvre de la sécurisation des plateformes de traitement audio/vidéo.
 
-**Stack :** Debian 3→6, Windows 2000→2008, NetApp, Bash, Perl, Active Directory, Nagios, Cacti, PGSQL 8.2, Tomcat, encodeurs Ektacom
+**Stack :** Debian 3→6, Windows 2000→2008, Proxmox VE, NetApp, Bash, Perl, Active Directory, Nagios, Cacti, PGSQL 8.2, Tomcat, encodeurs Ektacom
 
 ---
 
-#### Ingénieur de production Control-M
+#### Ingénieur de Production & Middleware (Salle de marché)
 **[HSBC GBM](https://www.hsbc.fr/) (La Défense)** · *Juin 2011 — Octobre 2011*
 
-Équipe Middleware, salle de marché. Environnement de production financière : disponibilité maximale, traçabilité stricte, tolérance zéro à l'erreur.
+**Contexte :** Maintien en conditions opérationnelles des flux financiers au sein de la salle de marché (Global Banking and Markets), un environnement soumis à une exigence de "tolérance zéro à l'erreur".
 
 **Missions :**
-- Exploitation et supervision des traitements batch critiques (Control-M)
-- Projet de sécurisation de la plateforme : analyse des droits, durcissement, documentation
-- Rédaction et mise à jour des procédures opérationnelles
+- Production Financière Critique : Pilotage et supervision globale des traitements batchs critiques (Control-M), garantissant la disponibilité maximale et l'intégrité des données boursières et transactionnelles.
+- Sécurité & Conformité : Cadrage et exécution d'un projet de sécurisation (durcissement) de la plateforme : audit des droits d'accès et stricte mise en conformité réglementaire (traçabilité).
+- Standardisation : Rédaction, optimisation et maintien des procédures opérationnelles pour les équipes de run.
 
-**Stack :** BMC Control-M, Windows Server, Linux Suse, Unix, Perl, Oracle, BMC Patrol
+**Stack :** BMC Control-M, Windows Server, Linux Suse, Unix, Perl, Oracle, BMC Patrol, VMWare
 
 ---
 
-#### Ingénieur d'intégration — Industrialisation
+#### Ingénieur d'Intégration & Industrialisation (Supervision Réseau)
 **[SFR](https://www.sfr.fr/) (Levallois-Perret)** · *Nov. 2011 — Déc. 2011 & Fév. 2010 — Mai 2010*
 
-Deux missions autour de l'industrialisation de la plateforme de supervision des performances réseau SFR.
+**Contexte :** Missions stratégiques d'industrialisation des outils de monitoring pour garantir l'observabilité et la performance du réseau de l'opérateur télécom.
 
-**Missions :**
-- Mise en place et intégration complète de la plateforme de supervision Cacti
-- Packaging et déploiement des outils internes (RPM) sur le parc Red Hat
-- **Rédaction du Document d'Architecture Technique (DAT) performance**
+**Missions**
+- Supervision Critique : Mise en place et intégration complète de la plateforme de supervision (Cacti, Nagios, Centreon) permettant le monitoring centralisé des équipements réseau de SFR.
+- Industrialisation & Scalabilité : Automatisation et standardisation des déploiements sur un vaste parc de serveurs (Red Hat) via la création et le packaging d'outils internes (RPM).
+- Architecture Technique : Modélisation et sécurisation de la solution via la rédaction du Document d'Architecture Technique (DAT) "Performance", servant de référence pour les déploiements futurs. 
 
-**Stack :** RHEL, CentOS, Cacti, Nagios, Centreon, RPM, Perl, Shell, PHP
+**Stack :** RHEL, CentOS, Cacti, Nagios, Centreon, RPM, Perl, Shell, PHP, Datacenter
 
 ---
 
-#### Ingénieur d'intégration — Responsable d'équipe
+#### Chef de Projet Technique & Responsable d'équipe (Projet AURIGA)
 **[EDF](https://www.edf.fr/) (Nanterre)** · *Mai 2010 — Avril 2011*
 
-Projet **AURIGA** — Maintien en Conditions Opérationnelles du référentiel SI et du Plan de Reprise d'Activité applicatifs d'EDF.
+**Contexte :** Mission stratégique pour la DSI d'EDF visant à garantir le Maintien en Conditions Opérationnelles (MCO) du référentiel du Système d'Information (SI) et du Plan de Reprise d'Activité (PRA) applicatif.
 
 **Missions :**
-- **Responsable d'une équipe de 3 personnes** : organisation du travail, planification, reporting à la DSI EDF
-- **Migration de la plateforme vers PHP 5** : cadrage, plan de migration, conduite des tests de non-régression, livraison
-- Pilotage des indicateurs de disponibilité et de performance du référentiel SI
+- Gestion des risques & Continuité (PRA) : Sécurisation et gestion opérationnelle du référentiel SI et des Plans de Reprise d'Activité (PRA) applicatifs pour le groupe EDF.
+- Leadership : Coordination d'une équipe technique de 3 personnes et animation des comités de suivi avec la DSI.
+- Gestion de Projet Technique : Pilotage intégral d'une montée de version majeure (PHP 5) dans un environnement sensible (cadrage, tests de non-régression, déploiement).
 
 **Stack :** Linux Red Hat, Apache, MySQL, PHP, MEGA
 
 ---
 
-#### Développeur Fullstack
+#### Chef de Projet Web & Développeur Fullstack (Mission Freelance)
 **AWITS (Paris)** · *Avril 2009 — Septembre 2009*
 
-Startup de services web. Gestion de projet client de bout en bout.
+**Contexte :** Missions de conseil et de développement en autonomie totale pour le compte d'une startup de services web, avec une forte dimension internationale.
+- Pilotage de projet de bout en bout : Recueil des besoins, développement et livraison d'une solution d'emailing et d'un site commercial pour GEFCO (filiale logistique du groupe PSA).
+- Intégration fullstack de site web.
+- Développement International : Conduite d'une étude de marché sur le terrain en Chine visant l'implantation stratégique d'une entité locale.
 
 **Missions :**
 - Pilotage et développement d'une solution d'emailing et d'un site commercial pour GEFCO (filiale logistique PSA) : recueil du besoin, développement, livraison
@@ -207,9 +177,13 @@ Startup de services web. Gestion de projet client de bout en bout.
 #### Administrateur Systèmes et Réseaux
 **[3IE](https://www.ionis-group.com/) — Groupe IONIS (Le Kremlin-Bicêtre)** · *Avril 2006 — Octobre 2007*
 
-Infrastructure mutualisée : 22 écoles, 20 000 étudiants, astreinte, haute disponibilité.
+**Contexte :**
+3IE est le pôle d'ingénierie informatique du Groupe IONIS, 1er acteur de l'enseignement supérieur privé en France.
+- Production critique : Gestion et maintien en conditions opérationnelles (MCO) d'une infrastructure IT mutualisée garantissant la continuité de service pour 22 écoles et plus de 20 000 étudiants.
+- Haute disponibilité : Sécurisation et gestion des environnements avec un niveau d'exigence maximal (astreintes H24, PCA/PRA).
+Stack technique experte : Déploiement et administration de systèmes hétérogènes (Linux Gentoo/Debian/OpenBSD, Windows Active Directory/Exchange, réseaux VLAN/DNS).
 
-**Stack :** Linux Gentoo/Debian/OpenBSD, Iptables, DNS, VLAN, NAT, OpenLDAP, Active Directory, Exchange, Apache, MySQL, IIS, SVN
+**Stack :** Linux Gentoo/Debian/OpenBSD, Iptables, DNS, VLAN, NAT, OpenLDAP, Active Directory, Exchange, Apache, MySQL, IIS, SVN, HP, Cisco
 
 ---
 
@@ -243,9 +217,12 @@ Membre et partenaire actif des principaux réseaux d'innovation et de transforma
 
 | Certification | Organisme | Année |
 |---|---|---|
-| PSSM | Premiers Secours à la Santé Mentale | - | 2019 |
-| EPI (Equipier de Première Intervention) | - | 2019 |
-| SST (Sauveteur Secouriste du Travail) | - | 2018 |
+| H0B0 | cfsi 54 | 2026 |
+| Management | Impulsing | 2025 |
+| Management | Seven | 2023 |
+| PSSM | Premiers Secours à la Santé Mentale | 2019 |
+| EPI (Equipier de Première Intervention)| cfsi 54 | 2019 |
+| SST (Sauveteur Secouriste du Travail)| GRETA Lorraine | 2018 |
 | VCP5-DCV | VMware | 2014 |
 | LPI-C 1 | Linux Professional Institute | 2012 |
 | ITIL | — | 2012 |
@@ -258,8 +235,8 @@ Membre et partenaire actif des principaux réseaux d'innovation et de transforma
 | Langue | Niveau |
 |---|---|
 | Français | Langue maternelle |
-| Anglais | Courant (plus de 20 mois en pays non-francophones) |
 | Teochew (Chinois) | Parlé — langue maternelle familiale |
+| Anglais | Courant |
 | Mandarin | Notions |
 
 ---
