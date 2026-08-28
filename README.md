@@ -175,9 +175,9 @@ Au sein de la direction Tech de Figaro Classifieds (éditeur de Cadremploi, CV A
 
 ### Administrateur Systèmes et Réseaux
 
-**3IE — Groupe IONIS (Le Kremlin-Bicêtre)** · *Avril 2006 — Octobre 2007*
+**[3IE](https://www.ionis-group.com) — Groupe IONIS (Le Kremlin-Bicêtre)** · *Avril 2006 — Octobre 2007*
 
-**Contexte :** [3IE](https://www.ionis-group.com) est le pôle d'ingénierie informatique du Groupe IONIS, 1er acteur de l'enseignement supérieur privé en France.
+**Contexte :** 3IE est le pôle d'ingénierie informatique du Groupe IONIS, 1er acteur de l'enseignement supérieur privé en France.
 
 **Missions :**
 
